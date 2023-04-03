@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
+title: Georgius blogs
 ---
 
-## Hello world
+Hello and welcome, this is my personal blog. About everything.
+
+[Twitter](https://twitter.com/jiriVyc) | [LinkedIn](https://www.linkedin.com/in/jiri-vycpalek/)
