@@ -6,7 +6,7 @@ tags:
 ---
 Je právě 22:48 pátek 1. apríla 2022, a my jsme konečně nacpali náš dvoupatrový autobus humanitárním nákladem, se kterým za chvíli vyrážíme na hranici Polska s Ukrajinou.
 
-![Před cestou](/assets/image12.jpg)
+![Před cestou](/blog/assets/image12.jpg)
 
 Byla to moje první cesta s touhle skupinou a tohle je text napůl slepený z paměti a napůl (hlavně pro náladový podkres) z poznámek, které jsem si ve chvílích stihnul hekticky nacvakat do mobilu po cestě, abych nezapomněl.
 
