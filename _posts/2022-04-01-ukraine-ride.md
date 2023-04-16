@@ -14,10 +14,10 @@ Byla to moje první cesta s touhle skupinou a tohle je text napůl slepený z pa
 
 Toto byla to už třetí cesta téhle skupiny v různém složení, a tentokrát se vědělo, že se pojede (poprvé) autobusem. Na transparentním účtu bylo dostatek prostředků na jeho pronájem a jako správní megalomani se kluci samozřejmě rozhodli pro dvoupatrák. A ukázalo se, že to rozhodně nebyla chyba: připraveného nákladu bylo opravdu hodně. Od obrovského množství skvělých lidí se sešlo množství beden s potřebným materiálem: neprůstřelné vesty (nosiče a pláty), helmy, vojenské oblečení, zimní bundy, boty, zdravotnický materiál (od bandáží a dezinfekcí, přes turniket škrtidla, až po zdravotnické batohy s vysoce specializovaným vybavením v hodnotě stovek tisíc korun), hygienické potřeby, MRE a jiné trvanlivé jídlo, atd. 
 
-![Před cestou](/assets/image8.jpg)
-![Před cestou](/assets/image10.jpg)
-![Před cestou](/assets/image3.jpg)
-![Před cestou](/assets/image9.jpg)
+![Před cestou](./assets/image8.jpg)
+![Před cestou](assets/image10.jpg)
+![Před cestou](main/assets/image3.jpg)
+![Před cestou](/main/assets/image9.jpg)
 
 Největší částí nákladu ovšem bylo (ano, počítali jsme to) 13 824 (tedy něco přes 840kg) čínských polévek. To všechno jsme před výjezdem doplnili nákupem v Makru za všechny prostředky z transparentního účtu: celkově tedy nákup cca za 70 tisíc trvanlivých potravin (hlavně konzerv - kupovali jsme po paletách), sušenek, balené vody, a jídla pro uprchlíky, kteří s námi pojedou zpět do ČR. 
 
