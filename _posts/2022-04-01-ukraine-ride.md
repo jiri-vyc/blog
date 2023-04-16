@@ -14,29 +14,29 @@ Byla to moje první cesta s touhle skupinou a tohle je text napůl slepený z pa
 
 Toto byla to už třetí cesta téhle skupiny v různém složení, a tentokrát se vědělo, že se pojede (poprvé) autobusem. Na transparentním účtu bylo dostatek prostředků na jeho pronájem a jako správní megalomani se kluci samozřejmě rozhodli pro dvoupatrák. A ukázalo se, že to rozhodně nebyla chyba: připraveného nákladu bylo opravdu hodně. Od obrovského množství skvělých lidí se sešlo množství beden s potřebným materiálem: neprůstřelné vesty (nosiče a pláty), helmy, vojenské oblečení, zimní bundy, boty, zdravotnický materiál (od bandáží a dezinfekcí, přes turniket škrtidla, až po zdravotnické batohy s vysoce specializovaným vybavením v hodnotě stovek tisíc korun), hygienické potřeby, MRE a jiné trvanlivé jídlo, atd. 
 
-![Před cestou](./assets/image8.jpg)
-![Před cestou](assets/image10.jpg)
-![Před cestou](main/assets/image3.jpg)
-![Před cestou](/main/assets/image9.jpg)
+![Před cestou](/blog/assets/image8.jpg)
+![Před cestou](/blog/assets/image10.jpg)
+![Před cestou](/blog/assets/image3.jpg)
+![Před cestou](/blog/assets/image9.jpg)
 
 Největší částí nákladu ovšem bylo (ano, počítali jsme to) 13 824 (tedy něco přes 840kg) čínských polévek. To všechno jsme před výjezdem doplnili nákupem v Makru za všechny prostředky z transparentního účtu: celkově tedy nákup cca za 70 tisíc trvanlivých potravin (hlavně konzerv - kupovali jsme po paletách), sušenek, balené vody, a jídla pro uprchlíky, kteří s námi pojedou zpět do ČR. 
 
-![Před cestou](/assets/image6.jpg)
-![Před cestou](/assets/image20.jpg)
+![Před cestou](/blog/assets/image6.jpg)
+![Před cestou](/blog/assets/image20.jpg)
 
 Při čekání na příjezd autobusu uprostřed skladů areálu Arcos jsme viděli člověka, který sem zdánlivě zabloudil. Pomalu přikráčel mezi sklady uprostřed ničeho, na zádech malý batoh a rozhlížel se kolem. Když jsme se ho zeptali kdo je a jestli něco nehledá, začal na nás mluvit francouzsky. Až po chvíli jsme si uvědomili, že ta francouzština je vlastně angličtina s přízvukem a nový příchozí je Nico, který přes známého věděl o naší cestě a přišel se s námi “svézt” na hranice a sám pokračovat dál bojovat na Ukrajinu v rámci francouzské cizinecké legie. Nico měl výraz a vystupování někoho, komu cesta z Francie do Prahy a odtud s nějakou partou Čechů, které vidí poprvé, do polského Przemyślu, tam odtud vlakem do Kyjeva a pak bůhví kam dál, nepřijde nijak zvláštní, podivná, nebo zneklidňující. Když nám svojí lámanou francouzskou angličtinou sdělil, že má za sebou 8 měsíců v Afghánistánu a 6 měsíců v Iráku, začalo to dávat smysl. Následovala úžasná mezinárodní večeře ve vnitřních prostorách kanceláří klempířství. Okolo zašlého dřevěného stolu seděli na různorodých stoličkách (já třeba na sedačce z auta) Češi, Vietnamci, Francouz a Rus, všichni spojení ochotou a vůlí pomoci lidem zasaženým válce na Ukrajině. Je to jeden z momentů, které samy o sobě jsou ve své chvíli perfektně nevýrazné, ale přesto na ně nikdy nezapomenu. K jídlu jsme měli výborné domácí pho od maminky našeho Anakina a když následně začala vyprávět o zkušenostech z válkou postiženého Vietnamu a vlastních zkušenostech jakožto válečného uprchlíka, bylo to už druhá věc, která začala dávat smysl. A to sice co mohlo do té výsledné obdivuhodné úrovně znásobit ochotu, odhodlanost a intenzitu pomoci od Anakinových rodičů. A možná taky trochu proč vezeme ten malý osmisetkilogramový náklad vietnamských nudlí. Po večeři jsme Nicovi poskytli vojenské vybavení z věcí, které jsme vezli (vesta, oblečení,...) a šlo se nakládat. 
 
-![Před cestou](/assets/image11.jpg)
-![Před cestou](/assets/image2.jpg)
+![Před cestou](/blog/assets/image11.jpg)
+![Před cestou](/blog/assets/image2.jpg)
 
 Díky vysoce efektivním lidským řetězům a pomocí všech, včetně řidičů, byl zhruba za hodinu a půl náš autobus v každém jeho prostoru pod sedačkou, v celém zavazadlovém prostoru, v celém zadním kufru a dokonce i na sedačkách, zaplněn krabicemi s materiálem, balenými vodami, konzervami, anebo (a to nejčastěji) krabicemi s nudlemi. 
 
-![Před cestou](/assets/image5.jpg)
-![Před cestou](/assets/image14.jpg)
+![Před cestou](/blog/assets/image5.jpg)
+![Před cestou](/blog/assets/image14.jpg)
 
 Loučíme se a jedeme. Naše podivná, nesourodá, z původního plánovaného počtu asi 8 lidí nakonec jen čtyřčlenná dobrovolnická posádka a jeden francouzský voják.
 
-![Před cestou](/assets/image12.jpg)
+![Před cestou](/blog/assets/image12.jpg)
 
 ## II. "Dobrodružství" začíná
 
@@ -56,17 +56,17 @@ Ale teď největší zdroj našeho stresu: naši řidiči můžou být na cestě
 Já s ~~[redacted]~~ potom jdeme balit balíčky s jídlem do autobusu pro uprchlíky, na které jsme za vybrané peníze v makru nakoupili suroviny. Aby každý, kdo s námi pojede, měl pocit, že se o něj někdo stará, cítil se v rámci možností dobře a měl co jíst a pít přímo v autobuse, protože na zastávky stejně asi moc času nebude. Také pro každého připravujeme malý hygienický balíček se základními potřebami “na první den”, pokud si 
 třeba nestihli, nemohli vzít, nebo nedostali v uprchlickém centru. Kartáček a pasta, sada na holení, dámské vložky, šampon a sprchový gel, sada na šití.
 
-![Před cestou](/assets/image4.jpg)
+![Před cestou](/blog/assets/image4.jpg)
 
 Po přípravě balíčků se brzy k ránu chýlí čas i pro nás jít spát. Komplikuje to další skupinová zpráva od K\* o nějakých lidech a nějakém autobuse který je bude vyzvedávat, kterou opět nedokážeme rozluštit, zda mluví o nás nebo ne. Zatímco ~~[redacted]~~ jde na záchod, rozepisuji odpověď na zprávu. Ale čekám, čekám, a pak si po ohlédnutí zpět do autobusu všímám, že ~~[redacted]~~ po cestě padla únavou do sedačky, usnula a já zbývám jako poslední vzhůru. Rozhoduji se, že taky zkusím ulovit cenné minuty spánku a začínám tak svoji hodinu převalování na nepohodlné sedačce a nakonec končím na zemi na uličce, kde dokážu proti silnému návalu adrenalinu vybojovat cenných 15 minut spánku. Přichází ráno a postupně všechny budím. Je 7 hodin ráno, necelé 2 hodiny do cíle, a stále není jasno, kde, koho, a kolik lidí vyzvedáváme. 
 
-![Před cestou](/assets/image16.jpg)
+![Před cestou](/blog/assets/image16.jpg)
 
 ## III. Przemyśl
 
 **8:45, sobota.** Od našeho ukrajinského kontaktu jsme dokázali získat GPS překladového skladu v Przemyślu, kde vykládáme náklad. Dorážíme tam s předstihem oproti původnímu plánu. Na místě potkáváme další 2 Čechy s humanitárním nákladem, kteří mají plné nákladní auto krmiva pro zvířata a pomáhají nám s vykládkou. Díky tomu jsme do hodiny hotoví, opět rychleji oproti plánu. 
 
-![Před cestou](/assets/image7.jpg)
+![Před cestou](/blog/assets/image7.jpg)
 
 A hlavně se tu potkáváme s naším místním kontaktem Olegem, kterému náklad předáváme a který se ukáže být jedním z nejcennějších kontaktů celé výpravy. Úryvek z poznámek:
 
@@ -94,13 +94,13 @@ Organizátorky nás prosí skoro na kolenou, abychom vzali ještě další lidi.
 
 Počítáme zapsané lidi, v tom chaosu nám to o 2 nevychází, ale nakonec se dobíráme výsledku. Po asi 15 minutách se zvedám a rozdávám balíčky. Každý dostává bagetu, ovoce, nějaké sladkosti, brambůrky, vodu a pitíčka a přesnídávku pro děti. 
 
-![Před cestou](/assets/image19.jpg)
-![Před cestou](/assets/image1.jpg)
+![Před cestou](/blog/assets/image19.jpg)
+![Před cestou](/blog/assets/image1.jpg)
 
 Všechno se uklidňuje. Teď už je to jen o čase a dostat se domů včas. Ale práce nekončí. ~~[redacted]~~ obchází lidi a zapisuje si jejich jména, věk, zda shánějí v ČR práci, co dělali dříve nebo mohou dělat, a další informace. Po předchozí domluvě s K\* jí tyto informace posíláme a ona průběžně shání ubytování a práce. Dříve než za cesty by to stejně nestíhala. Průběžně po cestě chodím po autobuse a nabízím další vodu a sladkosti. Snickersky mají největší úspěch. Dva desetiletí kluci nenápadně zkoumají naše zásoby na zadních sedačkách. Když jim nabízím snickersku, říkám ať si tam vezmou co chtějí, že oni můžou. Než obejdu autobus a dosedám zpátky na sedačky, už tam jsou a prohledávají vše co vezeme. Mezi jídlem a sladkostmi jsou i nějaké hračky, třeba angličáci on našich amerických přátel. K mojí radosti nám po nájezdu kluků žádné nezbyly :-)
 K\* si mezitím po dobu kdy se domlouvají ubytování lidem stíhá všimnout, že ~~[redacted]~~ umí s lidmi komunikovat a je schopná, úkoluje ji tedy dalšími úkoly - kontakty na další lidi pro domluvu odvozu/ubytování lidí, domluvení s lidmi kdy mají být na jakém vlaku druhý den, komu volat, a podobně. Ale slibuje si je druhý den přebrat, zdůrazňuje, ať jí všichni hned ráno volají. Rychle dopisujeme číslo na K\* na letáky se základními informacemi a kontakty (jak pro ně v ČR fungují víza, ubytování, zdravotní, psychologická a finanční podpora, nonstop linky, atd.), které jsme měli pro lidi připravené.
 
-![Před cestou](/assets/image18.jpg)
+![Před cestou](/blog/assets/image18.jpg)
 
 Když se blížíme ČR, situace s lidmi se opět komplikuje. S řidiči i s lidmi bylo domluveno, že jedeme pouze do Prahy. Hned za hranicemi budeme měnit řidiče, dál nestíháme, a pak rovnou do Prahy. K\* se snaží každého, kdo jen naznačil ochotu nebýt v Praze, usadit v Brně nebo Ostravě. Nestíháme, ale K\* na nás naléhá a prosí, že musíme. Argumentujeme, že nám to situace s řidiči neumožňuje, jinak bychom je rádi vzali kamkoliv. Je to absolutně mimo naši moc, ale K\* přesto tlačí, abychom nebyli bezcitní. Vypráví kolik lidí už jí prošlo rukou, kolik toho udělala, stíhá nám povídat o nejhorších případech jako nemocné a zraněné děti a naléhá dál. Zapisuju si citaci:
 
@@ -124,7 +124,7 @@ Nakonec je vše připraveno a lidi vedeme dovnitř. Paní mi podává své dvě 
 
 Všichni lidé nám moc děkují a jsou vděční. Je neuvěřitelné, jak se v takové situaci udrželi být naprosto funkční a racionální. Obdivuji jejich sílu. 
 
-![Před cestou](/assets/image17.jpg)
+![Před cestou](/blog/assets/image17.jpg)
 
 Nakonec už jen přejezd zpět na místo výjezdu a výklop všech zbylých věcí, uklízíme autobus a loučíme se s řidiči. Přesedáme do auta a jedeme domů. Já sotva vnímám cestu, ale dorážíme okolo půl třetí ráno. Poslední poznámka předtím než upadám do bezvědomí:
 
@@ -136,6 +136,6 @@ Po dodatečném zhodnocení byla přes všechny problémy a nástrahy naše mise
 
 Děkujeme všem co přispěli! Každá koruna byla využita pro dobrou věc.💛💙
 
-![Před cestou](/assets/image13.jpg)
+![Před cestou](/blog/assets/image13.jpg)
 
 PS: Jak jste si jistě všimli, report je lehce anonymizovaný, kvůli **** režimu, který – jako kdyby toho nedělal málo – hrozí pokutami a vězením dobrým lidem kteří pomáhají a mají srdce i názory na správném místě.
